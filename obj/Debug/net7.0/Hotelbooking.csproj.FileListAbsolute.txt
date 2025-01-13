@@ -1,0 +1,14 @@
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\bin\Debug\net7.0\Hotelbooking.exe
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\bin\Debug\net7.0\Hotelbooking.deps.json
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\bin\Debug\net7.0\Hotelbooking.runtimeconfig.json
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\bin\Debug\net7.0\Hotelbooking.dll
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\bin\Debug\net7.0\Hotelbooking.pdb
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.AssemblyInfoInputs.cache
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.AssemblyInfo.cs
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.csproj.CoreCompileInputs.cache
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.dll
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\refint\Hotelbooking.dll
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.pdb
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\Hotelbooking.genruntimeconfig.cache
+C:\Users\louay\Desktop\web tries\C# .net\Hotelbooking\obj\Debug\net7.0\ref\Hotelbooking.dll

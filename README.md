@@ -1,0 +1,1 @@
+Clone the repository to your local machine and navigate to the project folder. Create two JSON files, hotels.json and bookings.json, in the project directory . Run the program using the command dotnet run -- --hotels hotels.json --bookings bookings.json. Once the program is running, enter queries to check room availability for a specific hotel, room type, and date range.
